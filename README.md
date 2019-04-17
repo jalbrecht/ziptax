@@ -1,5 +1,7 @@
 # PHP Zip-Tax
 
+> *** FORKED SO IT CAN BE USED ON COMPOSER ***
+
 > A PHP wrapper for the zip-tax.com API.
 
 ## Requirements
