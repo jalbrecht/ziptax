@@ -1,5 +1,5 @@
 {
-  "name" : "vutran/ziptax",
+  "name" : "jalbrecht/ziptax",
   "description" : "A PHP wrapper for the zip-tax.com API.",
   "version" : "1.0.0",
   "type" : "library",
